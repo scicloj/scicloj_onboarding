@@ -1,0 +1,72 @@
+* SciCloj langer
+  I thnk we should keep the first page absolutely minimal but yet functional. People have very little patiance when they scan for info. Large text blocks seem to throw them off.
+** Inpatienct mode:
+*** Some useful first few functions (gif? maybe?)
+**** This is how you load a csv file
+     short repl command
+**** This is how you filter rows
+     short repl command
+**** This how you select columns
+     short repl command
+**** This is how you get a stats summary
+**** This is how you add or manipulate a column
+**** This is how you do a group by aggregation
+**** And this is how you visualize it
+*** How libararies work in Clojure
+    Short description here as this was a point of insequrity in new uesers
+*** Use this set of libraries
+    To get quickly started we recommend to use these libraries:
+**** Data wrangling and data frame
+      TMD, tablecloth
+**** Plotting
+     ???
+**** Stats functions
+     ???
+**** Machine learning
+     ???
+*** On online repl to test stuff on ->
+*** Here is a project template to get started
+*** Useful tutorials
+*** Need help, ask here ->
+*** Need help, read more ->
+** Why learn Clojure for data science?
+   these bullets were borrowed from a random python data science article and can serve as a start for discussions
+** How to learn Clojure for data science?
+   these bullets were borrowed from a random python data science article and can serve as a start for discussions
+** Step 1: Learn Clojure and lisp fundamentals
+   these bullets were borrowed from a random python data science article and can serve as a start for discussions
+** Step 2: Practice on a small project
+   these bullets were borrowed from a random python data science article and can serve as a start for discussions
+** Step 3: Start learning these libraries
+   these bullets were borrowed from a random python data science article and can serve as a start for discussions
+** FAQ with short examples to get started
+   This is prolly too much already, but starting a list
+*** Loading data
+**** CSV
+**** JSON
+**** Excel
+*** Wrangling
+**** Filter
+**** Selecting columns
+**** Manipulating columns
+**** Adding columns
+**** Working with time
+**** Grouping
+**** Aggregating
+**** Continuous data
+**** Categorical data
+*** Stats
+**** Distributions
+**** CDF PDF etc
+*** Plotting
+**** Line plot
+**** Smoothers
+**** Bar plot
+**** Histograms
+**** Boxplots
+**** Pies
+**** Facet plots
+*** Machine learning
+**** Clustering
+**** Regression
+**** Labelling
