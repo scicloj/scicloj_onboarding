@@ -1,4 +1,4 @@
-* SciCloj langer
+* SciCloj lander
   I thnk we should keep the first page absolutely minimal but yet functional. People have very little patiance when they scan for info. Large text blocks seem to throw them off.
 ** Inpatienct mode:
 *** Some useful first few functions (gif? maybe?)
